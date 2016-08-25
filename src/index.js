@@ -5,7 +5,6 @@ import clj_fuzzy from 'clj-fuzzy';
 
 const COUNT = {
   zero: 0,
-  a: 1,
   one: 1,
   first: 1,
   two: 2,
